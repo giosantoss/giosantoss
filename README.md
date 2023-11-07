@@ -11,11 +11,11 @@
 - 💻 I'm a Front-End developer, who likes to work with React.js ...
 - 🔭 I’m looking for a job ...
 - 🌱 I’m currently learning React Native JS ...
-- 📖 I'm studying through Meta Front-End Developer Professional Certificate ⚛️
+- 📖 Meta Front-End Developer Professional Certificate ⚛️
 
   ![giosantoss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giosantoss&theme=react&hide_border=true)
   ![giosantoss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giosantoss&theme=react&show_icons=true&hide_border=true)
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,html,ps)](https://skillicons.dev)
+### My skills:
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,html,ps,figma)](https://skillicons.dev)
