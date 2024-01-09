@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning React Native JS ...
 - 📖 Meta Front-End Developer Professional Certificate ⚛️
 
-  ![giosantoss's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giosantoss&theme=react&hide_border=true)
   ![giosantoss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giosantoss&theme=react&show_icons=true&hide_border=true)
 
 
